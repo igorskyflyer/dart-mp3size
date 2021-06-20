@@ -1,6 +1,6 @@
 ## 🎶 Mp3Size now in Dart 🎯
 
-> 🧮 Calculates an estimated file size of Mp3 files. 🎶
+🧮 Calculates an estimated file size of Mp3 files. 🎶
 
 <br>
 
